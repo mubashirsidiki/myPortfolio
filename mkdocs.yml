@@ -2,13 +2,13 @@
 
 # Project information
 site_name: Mubashir Ahmed Siddiqui
-site_url: https://mubashirsidiki.github.io/myPortfolio
+site_url: https://mubashirsidiki.github.io/portfolio
 site_author: Mubashir Ahmed
 site_description: Personal Portfolio
 
 # Repository
-repo_name: mubashirsidiki/myPortfolio
-repo_url: https://github.com/mubashirsidiki/myPortfolio
+repo_name: mubashirsidiki/portfolio
+repo_url: https://github.com/mubashirsidiki/portfolio
 edit_uri: edit/main/docs/
 
 # Markdown extensions
