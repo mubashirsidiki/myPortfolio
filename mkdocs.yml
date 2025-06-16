@@ -1,0 +1,78 @@
+# Copyright (c) 2016-2022 Martin Donath <martin.donath@squidfunk.com>
+
+# Project information
+site_name: Mubashir Ahmed Siddiqui
+site_url: https://mubashirahmed.github.io/portfolio
+site_author: Mubashir Ahmed
+site_description: Personal Portfolio
+
+# Repository
+repo_name: mubashirahmed/portfolio
+repo_url: https://github.com/mubashirahmed/portfolio
+edit_uri: edit/main/docs/
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - md_in_html
+  - pymdownx.arithmatex:
+      generic: true
+  - pymdownx.highlight:
+      anchor_linenums: true
+  - pymdownx.inlinehilite
+  - pymdownx.snippets
+  - def_list
+  - pymdownx.tasklist:
+      custom_checkbox: true
+
+  - admonition
+  - pymdownx.details
+  - pymdownx.superfences
+  - pymdownx.emoji:
+      emoji_index: !!python/name:materialx.emoji.twemoji
+      emoji_generator: !!python/name:materialx.emoji.to_svg
+  - neoteroi.cards
+  - neoteroi.timeline
+  - neoteroi.projects
+  - pymdownx.tabbed:
+      alternate_style: true
+
+extra_css:
+  - css/neoteroi-mkdocs.css
+
+# Theme
+theme:
+  name: dracula
+  language: en
+  logo: images/yo2.png
+  favicon: images/logo_fam.png
+  features:
+    - content.tabs.link
+
+# Plugins
+plugins:
+  - search
+
+ #TOC
+nav:
+    - 🏠 Home: index.md
+    - 👑 About Me:
+      - Presentation: about_me/me.md
+      - Education:  about_me/education.md
+      - Experience:  about_me/work_exp.md
+      - More:  about_me/awards.md
+    - 🚀️ Portfolio:
+      - Knowledge Hub: research/research.md
+      - Projects: software/projects.md
+      - Documentation: software/book.md
+      - Collaboration: software/collaboration.md
+    - ⭐ More:
+      - University Courses: teaching/universities.md
+      - Bootcamps: teaching/bootcamps.md
+      - Resources: blog/extras.md
+
+
+
+
+
+
