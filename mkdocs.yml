@@ -60,16 +60,85 @@ nav:
       - Presentation: about_me/me.md
       - Education:  about_me/education.md
       - Experience:  about_me/work_exp.md
-      - More:  about_me/awards.md
+      - Volunteering: about_me/volunteering.md
+      - Teaching Experience: about_me/teaching_exp.md
+      - Awards: about_me/awards.md
+      - Certification: about_me/certification.md
+      - Stack: about_me/stack.md
     - 🚀️ Portfolio:
       - Knowledge Hub: research/research.md
       - Projects: software/projects.md
+      - Case Studies:
+        - AI Diamond Art Platform: case-studies/ai-diamond-art-platform.md
+        - AI Drone Pilot Platform: case-studies/ai-drone-pilot-platform.md
+        - AI Media Monitoring Platform: case-studies/ai-media-monitoring-platform.md
+        - AI Medical Chatbot: case-studies/ai-medical-chatbot.md
+        - AI Recruitment Platform: case-studies/ai-recruitment-platform.md
+        - Beacon House AI Platform: case-studies/beacon-house-ai-platform.md
+        - EsperWise AI Medical Conversation Platform: case-studies/esperwise-ai-medical-conversation-platform.md
+        - Henry AI SoulMachine: case-studies/henry-ai-soulmachine.md
+        - Mind Orbi: case-studies/mind-orbi.md
+        - Telephonic AI V3: case-studies/telephonic-ai-v3.md
+        - Vodio AI Content Platform: case-studies/vodio-ai-content-platform.md
+        - AI-Powered Esports Video Analytics Platform: case-studies/ai-esports-video-analytics-platform.md
+        - AI-Powered Procurement Platform: case-studies/procurement-platform.md
+        - AI-Powered Medical MCQ Test Generator: case-studies/ai-medical-mcq-test-generator.md
+        - AI Math Tutor Platform: case-studies/ai-math-tutor-platform.md
+        - Secure Financial Document Assistant: case-studies/secure-financial-document-assistant.md
+        - AI-Powered Interview Voice Analysis Platform: case-studies/ai-interview-voice-analysis-platform.md
+        - Medical Query Router: case-studies/medical-llm-router.md
+        - Engineering Olympic Insights: case-studies/engineering-olympic-insights.md
       - Documentation: software/book.md
       - Collaboration: software/collaboration.md
     - ⭐ More:
       - University Courses: teaching/universities.md
       - Bootcamps: teaching/bootcamps.md
       - Resources: blog/extras.md
+
+# Navigation
+previous_next:
+  - previous: case-studies/ai-media-monitoring-platform.md
+    next: case-studies/ai-medical-chatbot.md
+  - previous: case-studies/ai-recruitment-platform.md
+    next: case-studies/ai-media-monitoring-platform.md
+  - previous: case-studies/telephonic-ai-v3.md
+    next: case-studies/ai-recruitment-platform.md
+  - previous: case-studies/mind-orbi.md
+    next: case-studies/beacon-house-ai-platform.md
+  - previous: case-studies/beacon-house-ai-platform.md
+    next: case-studies/ai-medical-chatbot.md
+  - previous: case-studies/henry-ai-soulmachine.md
+    next: case-studies/ai-drone-pilot-platform.md
+  - previous: case-studies/ai-drone-pilot-platform.md
+    next: case-studies/mind-orbi.md
+  - previous: case-studies/ai-medical-chatbot.md
+    next: case-studies/esperwise-ai-medical-conversation-platform.md
+  - previous: case-studies/esperwise-ai-medical-conversation-platform.md
+    next: case-studies/telephonic-ai-v3.md
+  - previous: case-studies/vodio-ai-content-platform.md
+    next: case-studies/ai-medical-chatbot.md
+  - previous: case-studies/ai-esports-video-analytics-platform.md
+    next: case-studies/procurement-platform.md
+  - previous: case-studies/procurement-platform.md
+    next: case-studies/ai-medical-mcq-test-generator.md
+  - previous: case-studies/ai-medical-mcq-test-generator.md
+    next: case-studies/ai-study-guide-generator.md
+  - previous: case-studies/ai-study-guide-generator.md
+    next: case-studies/engineering-olympic-insights.md
+  - previous: case-studies/engineering-olympic-insights.md
+    next: case-studies/ai-media-monitoring-platform.md
+  - previous: case-studies/ai-media-monitoring-platform.md
+    next: case-studies/ai-math-tutor-platform.md
+  - previous: case-studies/ai-math-tutor-platform.md
+    next: case-studies/ai-diamond-art-platform.md
+  - previous: case-studies/ai-diamond-art-platform.md
+    next: case-studies/ai-interview-voice-analysis-platform.md
+  - previous: case-studies/ai-interview-voice-analysis-platform.md
+    next: case-studies/ai-recruitment-platform.md
+  - previous: case-studies/esperwise-ai-medical-conversation-platform.md
+    next: case-studies/medical-llm-router.md
+  - previous: case-studies/medical-llm-router.md
+    next: case-studies/ai-medical-mcq-test-generator.md
 
 
 

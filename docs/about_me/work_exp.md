@@ -3,7 +3,7 @@
 ### Work Experience
 
 <p>
-<img src="../../images/about_me/mazikglobal.png" alt="Smiley face image"
+<img src="../../images/about_me/mazikglobal_2.png" alt="Smiley face image"
 style="float:left; width:65px; height:65px;">
 <span style="vertical-align:bottom">
 &nbsp; <a href="https://quisitive.com/" target="_blank">MaziGlobal Pakistan (a Quisitive company)</a> <br>
